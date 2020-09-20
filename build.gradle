@@ -18,12 +18,15 @@ dependencies {
   compile group: 'org.springframework.boot', name: 'spring-boot-starter-data-jpa', version: '2.3.3.RELEASE'
   compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.3.3.RELEASE'
 
-  runtimeOnly(group: 'com.h2database', name: 'h2', version: '1.4.200')
+//  runtimeOnly(group: 'com.h2database', name: 'h2', version: '1.4.200')
 // https://mvnrepository.com/artifact/jakarta.validation/jakarta.validation-api
   compile group: 'jakarta.validation', name: 'jakarta.validation-api', version: '2.0.2'
   compile group: 'io.springfox', name: 'springfox-swagger2', version: '2.9.2'
   compile group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.9.2'
   testCompile('org.springframework.boot:spring-boot-starter-test')
+// https://mvnrepository.com/artifact/org.postgresql/postgresql
+  compile group: 'org.postgresql', name: 'postgresql', version: '42.1.4'
+
 
   // Google Calendar
   compile 'com.google.api-client:google-api-client:1.23.0'
