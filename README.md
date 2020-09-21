@@ -33,6 +33,8 @@ O Agendabot é um bot de Whatsapp que sincroniza com a agenda de Pequenos Presta
 - h2 Database 
 - Spring Fox
 - Swagger 
+- OAuth
+- Google Calendar API
 
 ## 📥 Executar esse projeto no seu computador
 
