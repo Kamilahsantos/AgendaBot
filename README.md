@@ -20,9 +20,8 @@ O Agendabot é um bot de Whatsapp que sincroniza com a agenda de Pequenos Presta
 
 ## Equipe
 
-- 🎨 UX: [Adriana Lima](https://www.linkedin.com/in/adrianalimashika/)
+- 🎨 UX/Frontend: [Adriana Lima](https://www.linkedin.com/in/adrianalimashika/)
 - 💼 Bussiness: [Adriane Schneider](https://www.linkedin.com/in/adrischneider/)
-- 💻 Frontend: Alexandre
 - 🖥 Backend: [Kamila Santos](https://www.linkedin.com/in/kamila-santos-oliveira/)
 - 📢 Marketing: [Renata de Freitas](https://www.linkedin.com/in/reldefreitas/)
 
