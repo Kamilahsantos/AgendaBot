@@ -23,8 +23,21 @@ O Agendabot é um bot de Whatsapp que sincroniza com a agenda de Pequenos Presta
 - 🖥 Backend: [Kamila Santos](https://www.linkedin.com/in/kamila-santos-oliveira/)
 - 📢 Marketing: [Renata de Freitas](https://www.linkedin.com/in/reldefreitas/)
 
+## ⚙ Tecnologias
+
+- Java
+- Spring Web
+- Spring Data
+- h2 Database 
+- Spring Fox
+- Swagger 
+
 ## 📥 Executar esse projeto no seu computador
 
+- clone esse repositório: 
+- instale as dependências (necessário java e gradle instalado)
+- execute a classe Main: AgendabotApplication
+- ao iniciar a aplicação sera solicitado a autenticação em uma conta Google para acessar seus eventos do calendario
 
 
 ## 📕 Licença
